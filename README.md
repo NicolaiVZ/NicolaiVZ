@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicolaiVZ (Nico)
 - 👀 I’m interested in games development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate with my friends
 - 📫 How to reach me: Discord: nicolaivz
 
