@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nicolais13
+- 👋 Hi, I’m @NicolaiVZ (Nico)
 - 👀 I’m interested in games development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate with my friends
